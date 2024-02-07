@@ -1,8 +1,8 @@
 Week2 Submission
 
 You can find the ROS package [here][tutorials]
--Create a msg directory in ROS package
--Create a MyCustomMsg.msg file with required data types
+-Create a srv directory in ROS package
+-Create a polygon_s.srv file with required data types
 -Update CMakeList
 
 **Circle**
